@@ -75,6 +75,18 @@ address {
   letter-spacing: 0.02em;
 }
 
+.hero-page-list {
+  background-color: var(--navyblue, #2e2f42);
+  color: var(--white, #fff);
+  text-align: center;
+  /* Header 1 */
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  /* 107.143% */
+  letter-spacing: 0.02em;
+}
+
 .hero-page-btn {
   background-color: var(--iris, #4d5ae5);
   color: var(--white, #fff);
@@ -82,7 +94,7 @@ address {
   font-family: inherit;
   font-size: 16px;
   cursor: pointer
-  font-weight: 500;
+   font-weight: 500
   line-height: 1.5;
   /* 150% */
   letter-spacing: 0.04em;
@@ -129,7 +141,9 @@ address {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-
+.team {
+  background-color: #F4F4FD
+}
 
 
 .team-title {
@@ -137,7 +151,7 @@ address {
   text-align: center;
   /* Header 2 */
  background-color: #F4F4FD
-  font-size: 36px;
+  font-size: 36px
 
   font-weight: 700;
   line-height: 1.11;
@@ -247,7 +261,7 @@ address {
 .address-menu-link:focus {
   color: #404bbf;
 }
-.hero-button {
+.hero-project-button {
   color: var(--iris, #4d5ae5);
   text-align: center;
   /* Button Text */
