@@ -1,4 +1,4 @@
-body {
+:root {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
@@ -270,7 +270,7 @@ address {
   color: var(--iris, #4d5ae5);
   text-align: center;
   /* Button Text */
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
