@@ -71,7 +71,8 @@ address {
   color: #404bbf;
 }
 
-.hero-page {
+.hero-page
+ {
   background: var(--navyblue, #2E2F42);
 
 }
@@ -105,7 +106,7 @@ address {
   /* Button Text */
   font-family: inherit;
   font-size: 16px;
-  cursor: pointer
+  cursor: pointer;
    font-weight: 500;
   line-height: 1.5;
   /* 150% */
@@ -316,7 +317,7 @@ address {
 
 .footer-link {
   color: var(--iris, #4d5ae5);
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
 
   font-weight: 800;
@@ -328,7 +329,7 @@ address {
 
 .footer-link-span {
   color: var(--cloud, #f4f4fd);
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 800;
