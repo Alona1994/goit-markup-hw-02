@@ -173,11 +173,11 @@ font-weight: 700;
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-  
+  .team {
+    background-color: #F4F4FD;
+  }
 
-.team-item {
-  background-color: #F4F4FD;
-}
+
 .team-item-list {
   background: #FFFFFF;
 }
@@ -323,7 +323,7 @@ font-weight: 700;
   font-size: 18px;
 
   font-weight: 800;
-  line-height: 1.2;
+  line-height: 1.17;
   /* 116.667% */
   letter-spacing: 0.03em;
   text-transform: uppercase;
