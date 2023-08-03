@@ -291,6 +291,14 @@ font-weight: 700;
   line-height: 1.5;
   /* 150% */
   letter-spacing: 0.04em;
+  background-color: #F4F4FD;
+}
+
+.hero-project-button:hover,
+.hero-project-button:focus {
+  color: #FFFFFF;
+  background-color: #404BBF;
+
 }
 
 .portfolio-name {
