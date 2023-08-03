@@ -298,6 +298,7 @@ font-weight: 700;
 .hero-project-button:focus {
   color: #FFFFFF;
   background-color: #404BBF;
+  cursor: pointer;
 
 }
 
